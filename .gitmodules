@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "tayloRswift"]
 	path = tayloRswift
-	url = https://github.com/cran/tayloRswift
+	url = https://github.com/asteves/taylorswift
